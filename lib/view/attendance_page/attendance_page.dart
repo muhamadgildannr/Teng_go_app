@@ -149,7 +149,7 @@ class _AttendancePageState extends State<AttendancePage> {
                                         ),
                                         Padding(
                                             padding: const EdgeInsets.only(
-                                              right: 100),
+                                              right: 167),
                                             child: Text(
                                               "Take a selfie",
                                               style: GoogleFonts.poppins(

@@ -18,8 +18,8 @@ class _ApprovalPageState extends State<ApprovalPage> {
       length: 2,
       child: Scaffold(
           appBar: approvalBar,
-          body: Column(
-            children: const [
+          body: const Column(
+            children: <Widget>[
               TabBar(
                 tabs: [
                   Tab(
